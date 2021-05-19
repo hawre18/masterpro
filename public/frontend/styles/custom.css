@@ -1,0 +1,35 @@
+.gray-color {
+    color: #696969;
+}
+
+.red-color {
+    color: #b43248 !important;
+}
+
+.dark-color {
+    color: #102743;
+}
+
+.blue-color {
+    color: #007185;
+}
+
+.lightgray-color {
+    color: #8d8d8d;
+}
+
+.orange-color {
+    color: #ff9900;
+}
+
+.lightred-color {
+    color: #e45f56;
+}
+
+.light-background {
+    background-color: #f6f6f6;
+}
+
+.bg-light {
+    background-color: #f0f0f0 !important;
+}
